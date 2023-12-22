@@ -1,9 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Login+panel"/>
-
 ### Languages:
 
 * [Python](https://www.python.org/) <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="15" height="15"/>
 
+-----
 
 ### Example:
 
@@ -22,6 +22,8 @@ if verif == True:
 if verif == False:
     print("who are you?")
 ```
+
+----
 
 <div id="badges">
   <a href="https://vk.com/aniime_guy" >
